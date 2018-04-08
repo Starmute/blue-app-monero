@@ -44,7 +44,7 @@
 #define TESTNET_CRYPTONOTE_PUBLIC_SUBADDRESS_BASE58_PREFIX          63
 
 enum network_type {
-    MAINNET = 0,
+    MAINNET,
     TESTNET,
     STAGENET,
     FAKECHAIN
